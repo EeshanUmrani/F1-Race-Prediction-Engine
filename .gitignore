@@ -1,4 +1,7 @@
 data/
+!data/acquisition/
+!data/acquisition/**
+
 analysis/
 predictions/
 Saved_plots/
