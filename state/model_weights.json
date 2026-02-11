@@ -1,0 +1,18 @@
+{
+  "w_practice": 2.625,
+  "w_quali": 4.25,
+  "w_sprint": 0.5,
+  "w_grid": 2.375,
+  "w_last_pace_rel": -0.375,
+  "w_last_positions_gained": -0.8,
+  "w_skill": 2.375,
+  "w_practice_soft": 0.09999999999999998,
+  "w_practice_medium": -0.15000000000000002,
+  "w_practice_hard": 0.35,
+  "w_practice_tyre_life": -0.7,
+  "w_practice_wet_fraction": -0.95,
+  "noise_scale": 0.875,
+  "global_incident_prob": 0.01,
+  "safety_car_prob": 0.2,
+  "chaos_noise_scale": 1.25
+}

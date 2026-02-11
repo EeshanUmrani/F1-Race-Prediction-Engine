@@ -1,0 +1,146 @@
+{
+  "OCO": {
+    "mean_lap_delta_to_field": -0.4742910447761192,
+    "lap_time_std": 12.954261076896453,
+    "positions_gained": 3.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.5699700582794247,
+    "laps_completed": 69.0
+  },
+  "BEA": {
+    "mean_lap_delta_to_field": 0.5717388059701495,
+    "lap_time_std": 10.775314148888485,
+    "positions_gained": 2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.8028884485409459,
+    "laps_completed": 69.0
+  },
+  "ZHO": {
+    "mean_lap_delta_to_field": 2.0788863636363644,
+    "lap_time_std": 11.548414790499463,
+    "positions_gained": 2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.87655786192277,
+    "laps_completed": 69.0
+  },
+  "HAM": {
+    "mean_lap_delta_to_field": 0.32970895522388066,
+    "lap_time_std": 10.563208099409222,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.7209831937908129,
+    "laps_completed": 69.0
+  },
+  "ALO": {
+    "mean_lap_delta_to_field": 0.6816343283582081,
+    "lap_time_std": 11.11859012581174,
+    "positions_gained": -5.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.4551085387371045,
+    "laps_completed": 69.0
+  },
+  "PIA": {
+    "mean_lap_delta_to_field": -0.03849999999999909,
+    "lap_time_std": 11.318567212345785,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6731801348032165,
+    "laps_completed": 69.0
+  },
+  "COL": {
+    "mean_lap_delta_to_field": 1.4907999999999997,
+    "lap_time_std": 11.138734947929672,
+    "positions_gained": -3.0,
+    "dnf_flag": 1.0,
+    "deg_per_10_laps": 5.6593748609566354,
+    "laps_completed": 30.0
+  },
+  "PER": {
+    "mean_lap_delta_to_field": 0.5819925373134335,
+    "lap_time_std": 11.069105982463878,
+    "positions_gained": 8.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.8218009661224374,
+    "laps_completed": 69.0
+  },
+  "LEC": {
+    "mean_lap_delta_to_field": -0.14866417910447882,
+    "lap_time_std": 11.105269594830105,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.662667573793141,
+    "laps_completed": 69.0
+  },
+  "TSU": {
+    "mean_lap_delta_to_field": 0.0010373134328363197,
+    "lap_time_std": 11.326328335200316,
+    "positions_gained": -4.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.5485539098278539,
+    "laps_completed": 69.0
+  },
+  "NOR": {
+    "mean_lap_delta_to_field": -0.20117164179104516,
+    "lap_time_std": 12.387727571595192,
+    "positions_gained": -3.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.5110437864928354,
+    "laps_completed": 69.0
+  },
+  "RUS": {
+    "mean_lap_delta_to_field": -0.2929328358208967,
+    "lap_time_std": 12.64293882138001,
+    "positions_gained": -3.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.5298992522208026,
+    "laps_completed": 69.0
+  },
+  "BOT": {
+    "mean_lap_delta_to_field": 0.7326194029850746,
+    "lap_time_std": 10.207474947183396,
+    "positions_gained": 3.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.7445286961493723,
+    "laps_completed": 69.0
+  },
+  "GAS": {
+    "mean_lap_delta_to_field": -0.35785820895522324,
+    "lap_time_std": 12.01328104206959,
+    "positions_gained": 7.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6880234154293731,
+    "laps_completed": 69.0
+  },
+  "SAI": {
+    "mean_lap_delta_to_field": 0.8788472222222212,
+    "lap_time_std": 10.668132575312537,
+    "positions_gained": 5.0,
+    "dnf_flag": 1.0,
+    "deg_per_10_laps": 3.436319440780779,
+    "laps_completed": 38.0
+  },
+  "HUL": {
+    "mean_lap_delta_to_field": 1.9517777777777765,
+    "lap_time_std": 9.431618308507767,
+    "positions_gained": -3.0,
+    "dnf_flag": 1.0,
+    "deg_per_10_laps": 3.6444400227401843,
+    "laps_completed": 29.0
+  },
+  "VER": {
+    "mean_lap_delta_to_field": -0.7498432835820888,
+    "lap_time_std": 12.761295774611916,
+    "positions_gained": 11.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.7698401817017291,
+    "laps_completed": 69.0
+  },
+  "LAW": {
+    "mean_lap_delta_to_field": 0.3294552238805978,
+    "lap_time_std": 10.819662263999293,
+    "positions_gained": -2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6015688850528177,
+    "laps_completed": 69.0
+  }
+}
