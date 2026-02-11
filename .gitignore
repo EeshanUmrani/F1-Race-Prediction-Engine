@@ -2,6 +2,7 @@ data/
 analysis/
 predictions/
 Saved_plots/
+state/race_summaries/
 
 Analysis_1.ipynb
 Analysis_2.ipynb
