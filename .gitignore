@@ -1,0 +1,22 @@
+data/
+analysis/
+predictions/
+Saved_plots/
+state/race_summaries/
+
+Analysis_1.ipynb
+Analysis_2.ipynb
+global_climatology.json
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/

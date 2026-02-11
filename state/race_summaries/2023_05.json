@@ -1,0 +1,162 @@
+{
+  "ZHO": {
+    "mean_lap_delta_to_field": 0.653289473684212,
+    "lap_time_std": 2.793469971528173,
+    "positions_gained": 0.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.663416515426496,
+    "laps_completed": 57.0
+  },
+  "STR": {
+    "mean_lap_delta_to_field": 0.4131842105263164,
+    "lap_time_std": 2.7740115361162934,
+    "positions_gained": 5.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6310241120041447,
+    "laps_completed": 57.0
+  },
+  "DEV": {
+    "mean_lap_delta_to_field": 0.8376578947368428,
+    "lap_time_std": 3.163996390706068,
+    "positions_gained": 2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.8847148042520043,
+    "laps_completed": 57.0
+  },
+  "SAI": {
+    "mean_lap_delta_to_field": -0.06476315789473568,
+    "lap_time_std": 2.1947350788685323,
+    "positions_gained": -2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.5469970184080868,
+    "laps_completed": 57.0
+  },
+  "SAR": {
+    "mean_lap_delta_to_field": 1.511321428571429,
+    "lap_time_std": 5.9799053169490355,
+    "positions_gained": -2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -1.2503619275461424,
+    "laps_completed": 56.0
+  },
+  "HAM": {
+    "mean_lap_delta_to_field": 0.17625438596491244,
+    "lap_time_std": 2.548528268720239,
+    "positions_gained": 7.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.680854290899668,
+    "laps_completed": 57.0
+  },
+  "ALO": {
+    "mean_lap_delta_to_field": -0.2613596491228069,
+    "lap_time_std": 2.270965687711264,
+    "positions_gained": -1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.5292857142857198,
+    "laps_completed": 57.0
+  },
+  "GAS": {
+    "mean_lap_delta_to_field": 0.253815789473685,
+    "lap_time_std": 2.375247837616161,
+    "positions_gained": -4.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.5569769250712996,
+    "laps_completed": 57.0
+  },
+  "OCO": {
+    "mean_lap_delta_to_field": 0.29685087719298303,
+    "lap_time_std": 2.33783310896296,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.4815886699507376,
+    "laps_completed": 57.0
+  },
+  "PER": {
+    "mean_lap_delta_to_field": -0.6283947368421056,
+    "lap_time_std": 2.32412053231902,
+    "positions_gained": -1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6001017630282645,
+    "laps_completed": 57.0
+  },
+  "LEC": {
+    "mean_lap_delta_to_field": 0.20676315789473731,
+    "lap_time_std": 2.501720337160693,
+    "positions_gained": -1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6995501685247628,
+    "laps_completed": 57.0
+  },
+  "NOR": {
+    "mean_lap_delta_to_field": 0.8160438596491227,
+    "lap_time_std": 3.0918129189748655,
+    "positions_gained": 2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.7618440497796285,
+    "laps_completed": 57.0
+  },
+  "RUS": {
+    "mean_lap_delta_to_field": -0.13988596491227973,
+    "lap_time_std": 2.46694058240014,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6983925330567775,
+    "laps_completed": 57.0
+  },
+  "BOT": {
+    "mean_lap_delta_to_field": 0.5339385964912285,
+    "lap_time_std": 2.5583191163589842,
+    "positions_gained": -5.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6627851957479789,
+    "laps_completed": 57.0
+  },
+  "ALB": {
+    "mean_lap_delta_to_field": 0.5554122807017557,
+    "lap_time_std": 2.6133327017718986,
+    "positions_gained": -2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6387529167746907,
+    "laps_completed": 57.0
+  },
+  "VER": {
+    "mean_lap_delta_to_field": -0.7228508771929817,
+    "lap_time_std": 2.513584973907314,
+    "positions_gained": 8.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.4655315011667113,
+    "laps_completed": 57.0
+  },
+  "PIA": {
+    "mean_lap_delta_to_field": 1.2635000000000003,
+    "lap_time_std": 2.619215640931711,
+    "positions_gained": -5.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.7280809979494243,
+    "laps_completed": 56.0
+  },
+  "TSU": {
+    "mean_lap_delta_to_field": 0.40537719298245706,
+    "lap_time_std": 2.674567180335981,
+    "positions_gained": 4.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6356540057039135,
+    "laps_completed": 57.0
+  },
+  "HUL": {
+    "mean_lap_delta_to_field": 0.592061403508772,
+    "lap_time_std": 2.663352937026546,
+    "positions_gained": -4.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.4837529167746952,
+    "laps_completed": 57.0
+  },
+  "MAG": {
+    "mean_lap_delta_to_field": 0.38144736842105376,
+    "lap_time_std": 2.390554026032139,
+    "positions_gained": -3.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6004990925589903,
+    "laps_completed": 57.0
+  }
+}

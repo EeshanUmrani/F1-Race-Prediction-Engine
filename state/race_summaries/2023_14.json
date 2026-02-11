@@ -1,0 +1,154 @@
+{
+  "ZHO": {
+    "mean_lap_delta_to_field": 1.1695200000000012,
+    "lap_time_std": 4.292825736229305,
+    "positions_gained": 2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.4967635054021702,
+    "laps_completed": 50.0
+  },
+  "STR": {
+    "mean_lap_delta_to_field": 1.2463600000000006,
+    "lap_time_std": 3.4362059283519093,
+    "positions_gained": 4.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.29601728691477536,
+    "laps_completed": 50.0
+  },
+  "SAI": {
+    "mean_lap_delta_to_field": -0.1987843137254892,
+    "lap_time_std": 2.9973240619841244,
+    "positions_gained": -1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.16181990950227693,
+    "laps_completed": 51.0
+  },
+  "SAR": {
+    "mean_lap_delta_to_field": 1.0163800000000023,
+    "lap_time_std": 3.091688644262426,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.3575937575030208,
+    "laps_completed": 50.0
+  },
+  "HAM": {
+    "mean_lap_delta_to_field": 0.32054901960784365,
+    "lap_time_std": 2.9499883772453006,
+    "positions_gained": 4.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.323853393665157,
+    "laps_completed": 51.0
+  },
+  "ALO": {
+    "mean_lap_delta_to_field": 0.48947058823529566,
+    "lap_time_std": 3.0696904340314726,
+    "positions_gained": 3.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.39463438914028864,
+    "laps_completed": 51.0
+  },
+  "GAS": {
+    "mean_lap_delta_to_field": 1.1881199999999992,
+    "lap_time_std": 4.494925506363269,
+    "positions_gained": 3.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6994785114045693,
+    "laps_completed": 50.0
+  },
+  "LAW": {
+    "mean_lap_delta_to_field": 0.9899800000000007,
+    "lap_time_std": 4.174965296641787,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.5252566626650786,
+    "laps_completed": 50.0
+  },
+  "OCO": {
+    "mean_lap_delta_to_field": 1.8665128205128212,
+    "lap_time_std": 4.528567418924697,
+    "positions_gained": -1.0,
+    "dnf_flag": 1.0,
+    "deg_per_10_laps": 0.5404554655870392,
+    "laps_completed": 39.0
+  },
+  "PER": {
+    "mean_lap_delta_to_field": -0.29935294117647077,
+    "lap_time_std": 2.7968901121795686,
+    "positions_gained": 4.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.31455113122172246,
+    "laps_completed": 51.0
+  },
+  "LEC": {
+    "mean_lap_delta_to_field": -0.19517647058823517,
+    "lap_time_std": 2.8593357856155963,
+    "positions_gained": 0.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.19278009049774786,
+    "laps_completed": 51.0
+  },
+  "NOR": {
+    "mean_lap_delta_to_field": 0.472901960784315,
+    "lap_time_std": 2.8533825652248987,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.18720633484164217,
+    "laps_completed": 51.0
+  },
+  "RUS": {
+    "mean_lap_delta_to_field": -0.06476470588235261,
+    "lap_time_std": 2.7709043235370086,
+    "positions_gained": 0.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.28993574660634436,
+    "laps_completed": 51.0
+  },
+  "BOT": {
+    "mean_lap_delta_to_field": 0.8539000000000008,
+    "lap_time_std": 3.0530304667022623,
+    "positions_gained": 5.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.37937430972390296,
+    "laps_completed": 50.0
+  },
+  "ALB": {
+    "mean_lap_delta_to_field": 0.46617647058823597,
+    "lap_time_std": 3.026367528060985,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.2865511312217211,
+    "laps_completed": 51.0
+  },
+  "VER": {
+    "mean_lap_delta_to_field": -0.4182549019607835,
+    "lap_time_std": 2.8705928435996424,
+    "positions_gained": 2.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.14920271493212728,
+    "laps_completed": 51.0
+  },
+  "PIA": {
+    "mean_lap_delta_to_field": 0.9525599999999997,
+    "lap_time_std": 4.857096181960609,
+    "positions_gained": -4.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": 0.15102232893157666,
+    "laps_completed": 50.0
+  },
+  "HUL": {
+    "mean_lap_delta_to_field": 1.35612,
+    "lap_time_std": 4.2921099422935,
+    "positions_gained": -6.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.26963457382954525,
+    "laps_completed": 50.0
+  },
+  "MAG": {
+    "mean_lap_delta_to_field": 1.5667400000000007,
+    "lap_time_std": 4.381879186898174,
+    "positions_gained": 1.0,
+    "dnf_flag": 0.0,
+    "deg_per_10_laps": -0.6873397358943611,
+    "laps_completed": 50.0
+  }
+}
